@@ -1,4 +1,4 @@
-SHOUTOUS TO VIVI'S RADIO!
+SHOUTOUTS TO VIVI'S RADIO!
 YouTube-Livestream: https://www.youtube.com/watch?v=ZyAavTqsU6k
 Website: https://viviwebsite.net
 
