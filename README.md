@@ -5,4 +5,7 @@ Website: https://viviwebsite.net
 This is a simple Python-Programm to play to Radio from your Desktop!
 Just click Play/Pause, you can enable the Video-Stream and change the volume!
 
-(It's in German, but you can change it easily in the code)
+Requires Python to be installed on your PC, and you have to run the following in your CMD:
+pip install python-vlc yt-dlp requests beautifulsoup4
+
+(The UI is in German, but you can change it easily in the code)
