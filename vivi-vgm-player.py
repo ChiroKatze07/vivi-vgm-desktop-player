@@ -22,7 +22,7 @@ class ViviRadioApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Vivi Radio Player")
-        self.root.geometry("370x220")
+        self.root.geometry("370x190") #Window-Size
 
         self.track_var = tk.StringVar(value="ViviVGM Radio Player…")
         self.requester_var = tk.StringVar(value="")
